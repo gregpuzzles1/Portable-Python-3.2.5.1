@@ -1,0 +1,33 @@
+Python 3.2.5 (default, May 15 2013, 23:06:03) [MSC v.1500 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+The Board looks like this: 
+
+  |   |  
+---------
+  |   |  
+---------
+  |   |  
+
+
+The Board with the square numbers looks like this: 
+
+1 | 2 | 3
+---------
+4 | 5 | 6
+---------
+7 | 8 | 9
+
+
+X Enter a square number (1-9) for your move: 3
+
+
+  |   | X
+---------
+  |   |  
+---------
+  |   |  
+
+
+O Enter a square number (1-9) for your move: 
