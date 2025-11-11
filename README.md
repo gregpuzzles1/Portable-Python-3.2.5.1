@@ -38,4 +38,4 @@ To run these scripts, you may need to refactor or update them for compatibility 
 
 ## License
 
-See repository for details.
+This repository is released under the MIT License.
